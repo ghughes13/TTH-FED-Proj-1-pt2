@@ -71,7 +71,7 @@ header .profile-image {
   height: 150px;
   border-radius: 5px;
   border: 1px dashed black;
-  transition: all .5;
+  transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.5) rotate(360deg);
